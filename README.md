@@ -2,6 +2,8 @@
 
 **ValidationKit** is a Swift framework designed for robust and flexible data validation. It provides type-safe validators, logical operators (`&&`, `||`, `!`) for composing complex validation rules, and type-erased mechanisms to seamlessly handle both optional and non-optional properties. ValidationKit simplifies ensuring data integrity across your Swift applications, making it easier to implement and maintain complex validation logic.
 
+[![Tests](https://github.com/kubens/ValidationKit/actions/workflows/tests.yml/badge.svg)](https://github.com/kubens/ValidationKit/actions/workflows/tests.yml)
+
 ## Features
 
 - **Type-Safe Validators:** Create and compose validators tailored to your data models.
